@@ -1,0 +1,22 @@
+NVIDIA Announces Financial Results for First Quarter Fiscal 2024
+May 24, 2023
+
+Quarterly revenue of $7.19 billion, up 19% from previous quarter
+Record Data Center revenue of $4.28 billion
+Second quarter fiscal 2024 revenue outlook of $11.00 billion
+
+SANTA CLARA, Calif., May 24, 2023 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the first quarter ended April 30, 2023, of $7.19 billion, down 13% from a year ago and up 19% from the previous quarter.
+
+GAAP earnings per diluted share for the quarter were $0.82, up 28% from a year ago and up 44% from the previous quarter. Non-GAAP earnings per diluted share were $1.09, down 20% from a year ago and up 24% from the previous quarter.
+
+“The computer industry is going through two simultaneous transitions — accelerated computing and generative AI,” said Jensen Huang, founder and CEO of NVIDIA.
+
+“A trillion dollars of installed global data center infrastructure will transition from general purpose to accelerated computing as companies race to apply generative AI into every product, service and business process.
+
+“Our entire data center family of products — H100, Grace CPU, Grace Hopper Superchip, NVLink, Quantum 400 InfiniBand and BlueField-3 DPU — is in production. We are significantly increasing our supply to meet surging demand for them,” he said.
+
+During the first quarter of fiscal 2024, NVIDIA returned to shareholders $99 million in cash dividends.
+
+NVIDIA will pay its next quarterly cash dividend of $0.04 per share on June 30, 2023, to all shareholders of record on June 8, 2023.
+
+
