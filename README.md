@@ -6,10 +6,10 @@ A repository to highlight examples of using the Chroma (vector database) with La
 Document Question-Answering
 For an example of using Chroma+LangChain to do question answering over your own custom document.
 
-##Packages Installed:
-#langchain: This package is the main LangChain library, which facilitates seamless integration with OpenAI models for creating interactive chat experiences with text documents.
-#openai: This is the official Python package for OpenAI's API, enabling you to work with the powerful language models provided by OpenAI, such as GPT-4.
-#chromadb: ChromaDB is a lightweight, high-performance, schema-less vector database designed for use with AI applications. It allows you to store, retrieve, and manage the vector data (embeddings) required for your LangChain and OpenAI-powered document chat applications.
+Packages Installed:
+langchain: This package is the main LangChain library, which facilitates seamless integration with OpenAI models for creating interactive chat experiences with text documents.
+openai: This is the official Python package for OpenAI's API, enabling you to work with the powerful language models provided by OpenAI, such as GPT-4.
+chromadb: ChromaDB is a lightweight, high-performance, schema-less vector database designed for use with AI applications. It allows you to store, retrieve, and manage the vector data (embeddings) required for your LangChain and OpenAI-powered document chat applications.
 
 The code reads a text document, splits it into smaller chunks, and generates embeddings using OpenAI models. Then, it creates and persists a Chroma database containing the embeddings and associated metadata. This allows for efficient storage and retrieval of document embeddings for AI-driven text analysis and interactions.
 
